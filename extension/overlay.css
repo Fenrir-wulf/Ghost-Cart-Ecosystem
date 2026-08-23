@@ -1,0 +1,7 @@
+.ghost-cart-locked {
+    background-color: #555555 !important;
+    color: #ffffff !important;
+    cursor: not-allowed !important;
+    opacity: 0.7 !important;
+    border: 2px solid #ff4444 !important;
+}
