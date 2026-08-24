@@ -1,0 +1,8 @@
+{
+  "name": "ghost-cart-ecosystem",
+  "version": "1.0.0",
+  "description": "Ghost Cart extension ecosystem",
+  "scripts": {
+    "test": "echo \"No tests configured yet\" && exit 0"
+  }
+}
