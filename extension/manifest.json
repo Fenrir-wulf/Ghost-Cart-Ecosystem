@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Ghost Cart",
+  "version": "1.0.0",
+  "description": "Proactive budgeting and checkout interception.",
+  "permissions": ["storage", "activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["*://*.amazon.in/*", "*://*.flipkart.com/*"],
+      "css": ["overlay.css"],
+      "js": ["content.js"]
+    }
+  ]
+}
