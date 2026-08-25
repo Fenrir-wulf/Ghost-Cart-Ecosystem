@@ -3,7 +3,7 @@
 ## 📌 Overview
 The modern e-commerce landscape is engineered to exploit cognitive biases, utilizing frictionless checkouts to trigger dopamine-driven impulse buying. Existing financial tools like YNAB or Mint are purely reactive—they only track money after it has been spent. 
 
-**Ghost Cart** is a behavioral-intervention browser extension that solves this by introducing proactive "cognitive friction" at the exact moment of purchase. By enforcing a mandatory 24-hour "cooling-off" period during a user's self-defined vulnerable hours, it gives logic time to overcome emotion 
+**Ghost Cart** is a behavioral-intervention browser extension that solves this by introducing proactive "cognitive friction" at the exact moment of purchase. By enforcing a mandatory 24-hour "cooling-off" period during a user's self-defined vulnerable hours, it gives logic time to overcome emotion.
 
 ## ✨ Key Features
 * **Zero-Knowledge Privacy:** Engineered with a strict local-first design. All configurations are saved directly to `chrome.storage.local` ensuring 0% of PII, credit card data, or product information ever leaves the client device[cite: 4].
