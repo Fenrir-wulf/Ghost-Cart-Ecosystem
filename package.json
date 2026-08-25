@@ -15,7 +15,7 @@ The modern e-commerce landscape is engineered to exploit cognitive biases, utili
 * **Frontend UI:** HTML, CSS, JavaScript (Manifest V3 Extension Popup)
 * **Core Engine:** JavaScript Content Scripts for dynamic DOM traversal and event listener overrides.
 * **Storage:** Chrome Local Storage API
-* **Version Control & CI:** Git, GitHub, GitHub Actions[cite: 3]
+* **Version Control & CI:** Git, GitHub, GitHub Actions
 
 ## 🚀 Installation & Setup (Developer Mode)
 Since Ghost Cart is currently in the active development (Sprint 1) phase, it must be loaded as an unpacked extension:
