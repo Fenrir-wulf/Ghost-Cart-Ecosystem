@@ -24,3 +24,4 @@ Since Ghost Cart is currently in the active development (Sprint 1) phase, it mus
 1. Clone this repository to your local machine:
    ```bash
    git clone [https://github.com/Fenrir-Wulf/Ghost-Cart-Ecosystem.git](https://github.com/Fenrir-Wulf/Ghost-Cart-Ecosystem.git)
+Initial UI setup
