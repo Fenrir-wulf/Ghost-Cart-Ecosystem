@@ -4,3 +4,4 @@ COPY extension/ .
 EXPOSE 3000
 CMD ["python3", "-m", "http.server", "3000"]
 
+# Docker configuration for Ghost Cart
