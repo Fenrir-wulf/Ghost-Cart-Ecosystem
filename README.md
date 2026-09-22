@@ -1,3 +1,4 @@
+CI Pipeline configured using Jenkins
 # Ghost Cart: A Zero-Knowledge Proactive Budgeting Ecosystem
 
 ## 📌 Overview
